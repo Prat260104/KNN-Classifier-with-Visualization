@@ -37,9 +37,4 @@ This project implements a complete machine learning pipeline using the **K-Neare
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Prat260104/KNN-Classifier-with-Visualization.git
-   cd KNN-Classifier-with-Visualization
